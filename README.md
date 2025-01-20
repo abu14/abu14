@@ -53,8 +53,6 @@ Here are some of the projects I've worked on:
   
 - [Loan Eligibility Prediction](https://github.com/abu14/Loan-Eligibility-Prediction): Decide whether or not a applicant should be viable for loan.
 
-
-
 <br><br>
 
 <!-- Connect with Me Section -->
@@ -77,7 +75,9 @@ Here are some of the projects I've worked on:
   </a>
 </p>
 
+**I appreciate you looking through my profile. Let me know if you've any questionso or inquiries.**
 
+**Cheers!**
 
 ⭐️ From [Abenezer Tesfaye](https://github.com/abu14)
 
