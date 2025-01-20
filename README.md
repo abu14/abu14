@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu14&label=Profile%20views&color=0e75b6&style=flat" alt="abu14" /> 
-  <img src="https://img.shields.io/badge/Abenezer%20Tesfaye-%20Available%20for%20Remote%20Work-greenyellow" />
+  <img src="https://img.shields.io/badge/I'm%20Available%20for%20Remote%20Work-greenyellow" />
   </p>
 
 # Hi there, I'm Abenezer Tesfaye! 👋
