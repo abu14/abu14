@@ -11,7 +11,6 @@ I am a Machine Learning Engineer with a solid background in Analytics Engineerin
 - 👯 I’m looking to collaborate on **LLM Projects**
 - 🤝 I’m looking for help with **Cloud Technologies**
 - 📫 How to reach me **tesfayeabenezer64@gmail.com**
-- 📄 Know about my experiences [reusmelink.com](reusmelink.com)
 - ⚡ Fun fact about me **I count the number of stairs as I climb.**
 
 
