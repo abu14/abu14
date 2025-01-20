@@ -13,7 +13,6 @@ I am a Machine Learning Engineer with a solid background in Analytics Engineerin
 - 📫 How to reach me **tesfayeabenezer64@gmail.com**
 - ⚡ Fun fact about me **I count the number of stairs as I climb.**
 
-
 ## 🛠️ Technologies & Tools
 
 <p>
@@ -39,6 +38,8 @@ I am a Machine Learning Engineer with a solid background in Analytics Engineerin
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
+<br><br>
+
 
 ## 🚀 Projects
 
@@ -53,14 +54,7 @@ Here are some of the projects I've worked on:
 - [Loan Eligibility Prediction](https://github.com/abu14/Loan-Eligibility-Prediction): Decide whether or not a applicant should be viable for loan.
 
 
-## 📈 GitHub Stats
 
-<!-- GitHub Stats Section -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abu14&show_icons=true&locale=en&layout=compact" alt="abu14" />
-</div>
-
-<!-- Add spacing between sections -->
 <br><br>
 
 <!-- Connect with Me Section -->
