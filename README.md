@@ -9,7 +9,6 @@ I am an experienced Machine Learning Engineer with a solid background in Analyti
 # About Me
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, and Data Science** projects. Stay Tuned!
 - 👯 I’m looking to collaborate on **LLM Projects**
-- 🤝 I’m looking for help with **Cloud Technologies**
 - 📫 How to reach me **tesfayeabenezer64@gmail.com**
 - ⚡ Fun fact about me **I count the number of stairs as I climb.**
 
@@ -81,7 +80,7 @@ Here are some of the projects I've worked on:
   </a>
 </p>
 
-**I appreciate you looking through my profile. Let me know if you've any questionso or inquiries.**
+**I appreciate you looking through my profile. Let me know if you've any questions or inquiries.**
 
 **Cheers!**
 
