@@ -35,6 +35,15 @@ I am an experienced Machine Learning Engineer with a solid background in Analyti
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/-Beautiful%20Soup-4B8D3B?style=flat&logo=beautifulsoup&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-LangChain-4B0082?style=flat&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/-Hugging%20Face-792EE5?style=flat&logo=huggingface&logoColor=white">
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/-XGBoost-007D6F?style=flat&logo=xgboost&logoColor=white">
+<img src="https://img.shields.io/badge/-LightGBM-32CD32?style=flat&logo=lightgbm&logoColor=white">
+<img src="https://img.shields.io/badge/-CatBoost-FFD700?style=flat&logo=catboost&logoColor=white">
+<img src="https://img.shields.io/badge/-NLTK-000000?style=flat&logo=nltk&logoColor=white">
+<img src="https://img.shields.io/badge/-spaCy-09AB3B?style=flat&logo=spacy&logoColor=white">
+<img src="https://img.shields.io/badge/-joblib-000000?style=flat&logo=joblib&logoColor=white">
 </p>
 
 <br><br>
