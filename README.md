@@ -68,8 +68,12 @@ Here are some of the projects I've worked on:
 
   ![Image](https://github.com/user-attachments/assets/7bd32ce3-a9ec-4cfa-bbf2-f3ef6050285d)
 
-- [Loan Eligibility Prediction](https://github.com/abu14/Loan-Eligibility-Prediction): Decide whether or not a applicant should be viable for loan based on persons historical data and characterstics.
+- [Hand Digit Recognition](https://github.com/abu14/Digit-Recognition-CNN-99.3-Score): Digit recongnition through the famous MNSIT handwritten digits. Uses Convolutional Neural Network to train and predict these digits.
 
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/abu14/Digit-Recognition-CNN-99.3-Score/main/assets/digit_recognition.png" alt="MNIST Demo" width="800 height="400"">
+  </p>
+  
 <br><br>
 
 <!-- Connect with Me Section -->
