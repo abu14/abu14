@@ -7,7 +7,7 @@
 I am an experienced Machine Learning Engineer with a solid background in Analytics Engineering, SQL, Data Warehousing and a passion for solving compelx problems through data. My journey has been shaped by extensive self learning & hands-on experience in building and deploying ML models, both as part of my professional roles and personal portfolio projects. I deliver results using Python (with libraries like Scikit-learn, PyTorch, TensorFlow, and Pandas), and tools like Streamlit, Flask, and Power BI to create solutions that bridge the gap between raw data and actionable insights.
 
 # About Me
-- 🔭 I’m currently working on **Deep Learning** projects. Stay Tuned!
+- 🔭 I’m currently working on **Deep Learning** projects. So stay Tuned!
 - 👯 I’m looking to collaborate on **LLM Projects**
 - 📫 How to reach me **tesfayeabenezer64@gmail.com**
 - ⚡ Fun fact about me **I count the number of stairs as I climb.**
@@ -99,6 +99,5 @@ Here are some of the projects I've worked on:
 **I appreciate you looking through my profile. Let me know if you've any questions or inquiries.**
 
 **Cheers!**
-
 ⭐️ From [Abenezer Tesfaye](https://github.com/abu14)
 
