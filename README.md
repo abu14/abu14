@@ -18,7 +18,6 @@ I am an experienced Machine Learning Engineer with a solid background in Analyti
 
 ### Areas of Interest
 - Machine Learning and AI
-- Data Analysis and Business Intelligence
 
 
 ## 🛠️ Technologies & Tools
