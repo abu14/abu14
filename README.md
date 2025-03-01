@@ -17,8 +17,6 @@ I am an experienced Machine Learning Engineer with a solid background in Analyti
 - Learning **Transformer Models**.
 
 ### Areas of Interest
-- Machine Learning and AI
-
 
 ## 🛠️ Technologies & Tools
 
