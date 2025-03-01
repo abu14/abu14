@@ -16,8 +16,6 @@ I am an experienced Machine Learning Engineer with a solid background in Analyti
 - Developing a **Convolutional Neural Network** for high-accuracy Animal Species Detection.
 - Learning **Transformer Models**.
 
-### Areas of Interest
-
 ## 🛠️ Technologies & Tools
 
 <p>
