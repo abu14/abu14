@@ -64,15 +64,12 @@ Here are some of the projects I've worked on:
 
 - [Telecom Churn Prediction](https://github.com/abu14/Telecom-Churn-Prediction)
 
-- [Time Series Temprature Forecast](https://github.com/abu14/Climate-Temperature-Forecasting-LSTM)
+- [Time Series Temperature Forecast](https://github.com/abu14/Climate-Temperature-Forecasting-LSTM)
 
-- [Walmart Web Scraping](https://github.com/abu14/Web-Scraping-Walmart/tree/main)
+- [Walmart Product Web Scraping](https://github.com/abu14/Web-Scraping-Walmart/tree/main)
 
 - [Movie Recommendation System](https://github.com/abu14/Movie_Recommendation_System)
 
-- [Breast Cancer Detection](https://github.com/abu14/Cancer-Prediction-with-Streamlit)
-
-- [Hand Digit Recognition](https://github.com/abu14/Digit-Recognition-CNN-99.3-Score)
 
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
