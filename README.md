@@ -7,6 +7,7 @@
 I am an experienced **Machine Learning Engineer** with a solid background in ***Analytics Engineering, SQL, Data Warehousing*** and a passion for solving compelx problems through data. My journey has been shaped by extensive self learning & hands-on experience in building and deploying ML models, both as part of my professional roles and personal portfolio projects. I deliver results using *Python (with libraries like Scikit-learn, PyTorch, TensorFlow, and Pandas)*, and tools like *Streamlit, Flask, and Power BI* to create solutions that bridge the gap between raw data and actionable insights.
 
 ### **About Me**
+- ⚡ I've over Four years of experience in Data Science.
 - 🔭 I’m currently working on **Deep Learning** projects. So stay Tuned!
 - 📫 Best way to reach me **tesfayeabenezer64@gmail.com**
 
