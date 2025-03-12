@@ -70,7 +70,7 @@ I am an experienced **Machine Learning Engineer** with a solid background in ***
 
 - [Movie Recommendation System](https://github.com/abu14/Movie_Recommendation_System)
 
-
+<br>
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -98,5 +98,6 @@ I am an experienced **Machine Learning Engineer** with a solid background in ***
 <br>
 
 **Cheers!**
+
 ⭐️ From [Abenezer Tesfaye](https://github.com/abu14)
 
