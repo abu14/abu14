@@ -60,23 +60,13 @@ I am an experienced Machine Learning Engineer with a solid background in Analyti
 
 Here are some of the projects I've worked on:
 
-- [Breast Cancer Detection](https://github.com/abu14/Cancer-Prediction-with-Streamlit): Uses mass measurements to predict as benign or not.
+- [Breast Cancer Detection](https://github.com/abu14/Cancer-Prediction-with-Streamlit)
 
-  #### Demo
+- [Telecom Churn Prediction](https://github.com/abu14/Telecom-Churn-Prediction)
 
-  ![dashboard](https://github.com/user-attachments/assets/ff124e6e-f0f5-477e-8e22-21e4a53dc471)
+- [Hand Digit Recognition](https://github.com/abu14/Digit-Recognition-CNN-99.3-Score)
 
-- [Telecom Churn Prediction](https://github.com/abu14/Telecom-Churn-Prediction): Uses customer characteristics to predict whether or not they are likely to churn.
 
-  #### Demo
-
-  ![Image](https://github.com/user-attachments/assets/7bd32ce3-a9ec-4cfa-bbf2-f3ef6050285d)
-
-- [Hand Digit Recognition](https://github.com/abu14/Digit-Recognition-CNN-99.3-Score): Digit recongnition through the famous MNSIT handwritten digits. Uses Convolutional Neural Network to train and predict these digits.
-
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/abu14/Digit-Recognition-CNN-99.3-Score/main/assets/digit_recognition.png" alt="MNIST Demo" width="800 height="400"">
-  </p>
   
 <br><br>
 
