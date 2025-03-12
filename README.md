@@ -4,19 +4,19 @@
 
 ## Hi there, I'm Abenezer Tesfaye! 👋
 
-I am an experienced Machine Learning Engineer with a solid background in Analytics Engineering, SQL, Data Warehousing and a passion for solving compelx problems through data. My journey has been shaped by extensive self learning & hands-on experience in building and deploying ML models, both as part of my professional roles and personal portfolio projects. I deliver results using Python (with libraries like Scikit-learn, PyTorch, TensorFlow, and Pandas), and tools like Streamlit, Flask, and Power BI to create solutions that bridge the gap between raw data and actionable insights.
+I am an experienced **Machine Learning Engineer** with a solid background in ***Analytics Engineering, SQL, Data Warehousing*** and a passion for solving compelx problems through data. My journey has been shaped by extensive self learning & hands-on experience in building and deploying ML models, both as part of my professional roles and personal portfolio projects. I deliver results using *Python (with libraries like Scikit-learn, PyTorch, TensorFlow, and Pandas)*, and tools like *Streamlit, Flask, and Power BI* to create solutions that bridge the gap between raw data and actionable insights.
 
-## About Me
+### **About Me**
 - 🔭 I’m currently working on **Deep Learning** projects. So stay Tuned!
-- 👯 I’m looking to collaborate on **LLM Projects**
-- 📫 How to reach me **tesfayeabenezer64@gmail.com**
+- 📫 Best way to reach me **tesfayeabenezer64@gmail.com**
 - ⚡ Fun fact about me **I count the number of stairs as I climb.**
 
-### Current Projects
+### **Current Projects**
 - Developing a **Convolutional Neural Network** for high-accuracy Animal Species Detection.
-- Learning **Transformer Models**.
 
-## 🛠️ Technologies & Tools
+<br>
+
+### 🛠️ **Technologies & Tools**
 
 <p>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -53,12 +53,12 @@ I am an experienced Machine Learning Engineer with a solid background in Analyti
 <img src="https://img.shields.io/badge/-joblib-000000?style=flat&logo=joblib&logoColor=white">
 </p>
 
-<br><br>
+<br>
 
 
-## 🚀 Projects
+### 🚀 **Projects**
 
-Here are some of the projects I've worked on:
+> Here are some of the projects I've worked on:
 
 - [Chat with Any Website](https://github.com/abu14/chat-with-website-langchain)
 
