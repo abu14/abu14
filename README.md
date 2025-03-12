@@ -9,7 +9,6 @@ I am an experienced **Machine Learning Engineer** with a solid background in ***
 ### **About Me**
 - 🔭 I’m currently working on **Deep Learning** projects. So stay Tuned!
 - 📫 Best way to reach me **tesfayeabenezer64@gmail.com**
-- ⚡ Fun fact about me **I count the number of stairs as I climb.**
 
 ### **Current Projects**
 - Developing a **Convolutional Neural Network** for high-accuracy Animal Species Detection.
