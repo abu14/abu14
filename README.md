@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Abenezer Tesfaye! 👋
 
-I am an experienced **Machine Learning Engineer** with a solid background in ***Analytics Engineering, SQL, Data Warehousing*** and a passion for solving compelx problems through data. My journey has been shaped by extensive self learning & hands-on experience in building and deploying ML models, both as part of my professional roles and personal portfolio projects. I deliver results using *Python (with libraries like Scikit-learn, PyTorch, TensorFlow, and Pandas)*, and tools like *Streamlit, Flask, and Power BI* to create solutions that bridge the gap between raw data and actionable insights.
+I am an experienced **Machine Learning Engineer** with a solid background in ***Analytics Engineering, SQL, Data Warehousing*** and a passion for solving compelx problems through data. My journey has been shaped by extensive self learning & hands-on experience in building and deploying ML models, both as part of my professional roles and personal portfolio projects. 
 
 ### **About Me**
 - ⚡ I've over **4 years** of experience in Data Science.
