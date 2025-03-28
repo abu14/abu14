@@ -51,6 +51,9 @@ I am an experienced **Machine Learning Engineer** with a solid background in ***
 <img src="https://img.shields.io/badge/-NLTK-000000?style=flat&logo=nltk&logoColor=white">
 <img src="https://img.shields.io/badge/-spaCy-09AB3B?style=flat&logo=spacy&logoColor=white">
 <img src="https://img.shields.io/badge/-joblib-000000?style=flat&logo=joblib&logoColor=white">
+<img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/-Scrapy-0E4C5B?style=flat&logo=scrapy&logoColor=white">
+
 </p>
 
 <br>
