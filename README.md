@@ -92,6 +92,10 @@ I am an experienced **Machine Learning Engineer** with a solid background in ***
   <a href="https://www.leetcode.com/abu14/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abu14/" height="30" width="40" />
   </a>
+  <a href="mailto:tesfayeabenezer64@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="25" width="35" />
+  </a>
+  
 </p>
 
 <br>
