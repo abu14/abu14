@@ -12,7 +12,7 @@ I am an experienced **Machine Learning Engineer** with a solid background in ***
 - 📫 Best way to reach me **tesfayeabenezer64@gmail.com**
 
 ### **Current Projects**
-- Developing a **Convolutional Neural Network** for high-accuracy Animal Species Detection.
+- Developing a **Convolutional Neural Network** for high-accuracy Animal Species Detection [Project link](https://github.com/abu14/animal-species-detection-using-yolov8).
 
 <br>
 
