@@ -63,11 +63,11 @@ I am an experienced **Machine Learning Engineer** with a solid background in ***
 
 > Here are some of the projects I've worked on:
 
-- [Chat with Any Website](https://github.com/abu14/chat-with-website-langchain)
+- [Chatting with Websites](https://github.com/abu14/chat-with-website-langchain)
 
-- [Telecom Churn Prediction](https://github.com/abu14/Telecom-Churn-Prediction)
+- [Churn Prediction](https://github.com/abu14/Telecom-Churn-Prediction)
 
-- [Time Series Temperature Forecast](https://github.com/abu14/Climate-Temperature-Forecasting-LSTM)
+- [Time Series Temperature Forecast - LSTM/RNN](https://github.com/abu14/Climate-Temperature-Forecasting-LSTM)
 
 - [Walmart Product Web Scraping](https://github.com/abu14/Web-Scraping-Walmart/tree/main)
 
