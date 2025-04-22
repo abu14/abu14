@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Abenezer Tesfaye! 👋
 
-I am an experienced **Machine Learning Engineer** with a solid background in ***Analytics Engineering, SQL, Data Warehousing*** and a passion for solving compelx problems through data. I am a self-taught developer. I've hands-on experience in building and deploying ML models, both as part of my professional roles and personal portfolio projects. 
+I am an experienced **Machine Learning Engineer** with a solid background in ***Analytics Engineering, SQL, Data Warehousing*** and a passion for solving complex problems through data. I am a self-taught developer. I've hands-on experience in building and deploying ML models, both as part of my professional roles and personal portfolio projects. 
 
 ### **About Me**
 - ⚡ I've over **4 years** of experience in Data Science.
