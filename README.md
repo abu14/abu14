@@ -6,7 +6,7 @@
 
 [🌐Visit my Portfolio](https://abenezertesfaye-portfolio.netlify.app/)
 
-I am an experienced **Machine Learning Engineer** with a solid background in ***Analytics Engineering, Data Analytitcs, SQL, Data Warehousing*** and a passion for solving complex problems through data. I am a self-taught developer. I've hands-on experience in building and deploying ML models, both as part of my professional roles and personal portfolio projects. 
+I am an experienced **Machine Learning Engineer** with a solid background in ***Analytics Engineering, Data Analytics, & Data Warehousing*** with a passion for solving complex problems through data. I am a self-taught developer. I've hands-on experience in building and deploying ML models, both as part of my professional roles and personal projects. 
 
 ### **About Me**
 - ⚡ I've over **4 years** of experience in Data Science.
@@ -14,7 +14,7 @@ I am an experienced **Machine Learning Engineer** with a solid background in ***
 - 📫 Best way to reach me **tesfayeabenezer64@gmail.com**
 
 ### **Recent Project**
-- Developing a **Convolutional Neural Network** for high-accuracy Animal Species Detection [Project link](https://github.com/abu14/animal-species-detection-using-yolov8).
+- Developed a **Convolutional Neural Network** for high-accuracy Animal Species Detection [Project link](https://github.com/abu14/animal-species-detection-using-yolov8).
 
 <br>
 
@@ -74,6 +74,7 @@ I am an experienced **Machine Learning Engineer** with a solid background in ***
 - [Walmart Product Web Scraping](https://github.com/abu14/Web-Scraping-Walmart/tree/main)
 
 - [Movie Recommendation System](https://github.com/abu14/Movie_Recommendation_System)
+
 
 <br>
 <!-- Connect with Me Section -->
