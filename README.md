@@ -9,7 +9,7 @@
 I am an experienced **Machine Learning & AI Engineer** with a solid background in ***Analytics Engineering, Data Analytics, & Data Warehousing*** with a passion for solving complex problems through data. I am a self-taught developer. I've hands-on experience in building and deploying ML models, both as part of my professional roles and personal projects. With experience in working with low-code/no-code and AI integration to streamline workflows for projects, with tools like ***n8n, make.com, Zapier.com, Airtable, and RAG Systems***.
 
 ### **About Me**
-- ⚡ I've over **4 years** of experience in Data Science.
+- ⚡ I've **5 years** of experience in Data Science.
 - 🔭 I’m currently working on **Deep Learning** projects. So stay Tuned!
 - 📫 Best way to reach me **tesfayeabenezer64@gmail.com**
 
