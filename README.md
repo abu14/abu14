@@ -10,7 +10,7 @@ I am an experienced **Machine Learning & AI Engineer** with a solid background i
 
 ### **About Me**
 - ⚡ I've **5 years** of experience in Data Science.
-- 🔭 I’m currently working on **Deep Learning** projects. So stay Tuned!
+- 🔭 I’m currently working on **Deep Learning** projects. Stay Tuned!
 - 📫 Best way to reach me **tesfayeabenezer64@gmail.com**
 
 ### **Recent Project**
