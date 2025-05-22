@@ -65,7 +65,7 @@ I am an experienced **Machine Learning & AI Engineer** with a solid background i
 
 > Here are some of the projects I've worked on:
 
-- [Chatting with Websites](https://github.com/abu14/chat-with-website-langchain)
+- [Chatting with Websites - RAG System](https://github.com/abu14/chat-with-website-langchain)
 
 - [Churn Prediction](https://github.com/abu14/Telecom-Churn-Prediction)
 
